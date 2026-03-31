@@ -5,6 +5,7 @@
 ![MLflow](https://img.shields.io/badge/MLflow-Tracking-blue)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-Spaces-yellow)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 An end-to-end machine learning pipeline predicting heart disease presence from 
 clinical measurements. Built with scikit-learn, tracked with MLflow on DagsHub, 
@@ -169,6 +170,14 @@ python app.py
 | Deployment | Hugging Face Spaces |
 | Notebook | Kaggle |
 | Version Control | GitHub |
+| License | MIT |
+
+---
+
+## License
+
+This project is licensed under the MIT License — see the
+[LICENSE](LICENSE) file for details.
 
 ---
 
