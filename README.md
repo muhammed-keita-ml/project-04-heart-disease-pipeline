@@ -181,6 +181,16 @@ This project is licensed under the MIT License — see the
 
 ---
 
+## Related Work
+
+This project engages with established practices in clinical ML pipeline design and reproducible experimentation:
+
+- Rajpurkar et al. (2022). *AI in health and medicine.* Nature Medicine. — Frames the deployment and reliability challenges for ML in clinical decision support.
+- Sculley et al. (2015). *Hidden Technical Debt in Machine Learning Systems.* NeurIPS. — Motivates the pipeline modularity and experiment tracking architecture used here.
+- Grinsztajn et al. (2022). *Why tree-based models still outperform deep learning on tabular data.* NeurIPS. — Provides context for the model selection decision (tree-based ensemble over neural approaches) on structured clinical data.
+
+---
+
 ## Author
 
 **Muhammed Keita** — ML Engineer in Training  
