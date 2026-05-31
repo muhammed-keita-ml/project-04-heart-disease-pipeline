@@ -1,4 +1,5 @@
 # Project 04 — Heart Disease ML Pipeline
+📄 **[Technical Report](./technical-report.md)** — Full methodology, results, and research directions
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.5.0-orange)
